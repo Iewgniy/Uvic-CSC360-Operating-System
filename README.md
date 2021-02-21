@@ -1,1 +1,1 @@
-# Uvic_Resouces
+# Uvic CSC 360 - Operating System
